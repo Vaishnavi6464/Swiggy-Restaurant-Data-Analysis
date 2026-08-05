@@ -149,6 +149,7 @@ Most Expensive Restaurants
 
 Which restaurants have the highest average dish prices on Swiggy?
 
+<img src="photo/Screenshot 2026-08-06 013554.png" width="400">
 
 
 Analysis

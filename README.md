@@ -185,6 +185,13 @@ Analyze customer purchasing patterns in each city to identify where premium rest
 
  Conclusion
 
-This project demonstrates an end-to-end data analytics workflow, from data cleaning and SQL analysis to interactive dashboard development in Power BI. The insights generated can help understand restaurant distribution, pricing patterns, and customer satisfaction while supporting data-driven business decisions.
+The analysis revealed that restaurant availability is concentrated in major metropolitan cities, indicating stronger market presence and higher customer demand in urban regions. At the same time, premium-priced restaurants are distributed across multiple cities, suggesting that demand for high-quality dining experiences extends beyond metropolitan markets. Customer satisfaction is generally high, with an average rating above 4.0. However, the relatively low average review count and the large number of unrated restaurants highlight an opportunity to improve customer engagement and encourage more users to share feedback.
 
+Next Steps
 
+While this project provides valuable insights into Swiggy's restaurant ecosystem, additional analyses can further enhance business decision-making.
+
+-Build a restaurant performance score by combining ratings, review counts, pricing, and menu variety into a single performance metric.
+-Develop predictive machine learning models to forecast restaurant ratings, customer demand, or pricing trends.
+-Integrate delivery metrics such as delivery time, cancellation rate, and order completion rate to evaluate operational performance.
+-Analyze order-level data to identify the most popular dishes, cuisines, and customer purchasing patterns.

@@ -117,17 +117,19 @@ Business Recommendation
 Restaurants should continue developing premium meal bundles while also maintaining affordable options for price-sensitive customers. A balanced pricing strategy allows restaurants to attract a broader customer base without relying on a single price segment.
 
 Customer Ratings
-Do customers generally rate restaurants positively?
+How reliable are customer ratings and review counts across restaurants?
 
 Analysis
-Most restaurants maintain ratings above four stars, with only a small number receiving significantly lower ratings. The variation between cities is relatively small, suggesting that customer satisfaction remains consistent across different locations.
+The analysis shows that while the average restaurant rating is above 3.5 (approximately 4.34), the average rating count is below 400. Additionally, a significant number of restaurants have zero customer ratings or reviews.
 
 Insight
-A consistently high average rating indicates that restaurants on the platform are generally meeting customer expectations. Since ratings strongly influence purchasing decisions, maintaining service quality is essential for long-term customer trust.
+The high average rating indicates that customers who leave reviews are generally satisfied with their dining experience. However, the relatively low average review count and the large number of restaurants with no ratings suggest that many restaurants have limited customer feedback. This makes it difficult for customers to evaluate these restaurants and may reduce their visibility and credibility on the platform.
 
 Business Recommendation
-Swiggy should continue encouraging customer feedback while providing restaurants with regular performance reports. Restaurants whose ratings begin to decline can then address issues before customer satisfaction is affected further.
-
+Encourage customers to rate and review their orders by offering small incentives such as loyalty points, discount coupons, or cashback rewards.
+Increase the visibility of newly onboarded or unrated restaurants through promotional campaigns to help them receive their first customer reviews.
+Highlight restaurants with consistently high ratings and a substantial number of reviews to build customer trust.
+Provide restaurant partners with review analytics so they can identify areas for improvement and enhance customer satisfaction.
  Skills Demonstrated
 
 - SQL Querying

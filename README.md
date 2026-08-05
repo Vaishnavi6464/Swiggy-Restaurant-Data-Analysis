@@ -192,6 +192,9 @@ Next Steps
 While this project provides valuable insights into Swiggy's restaurant ecosystem, additional analyses can further enhance business decision-making.
 
 -Build a restaurant performance score by combining ratings, review counts, pricing, and menu variety into a single performance metric.
+
 -Develop predictive machine learning models to forecast restaurant ratings, customer demand, or pricing trends.
+
 -Integrate delivery metrics such as delivery time, cancellation rate, and order completion rate to evaluate operational performance.
+
 -Analyze order-level data to identify the most popular dishes, cuisines, and customer purchasing patterns.

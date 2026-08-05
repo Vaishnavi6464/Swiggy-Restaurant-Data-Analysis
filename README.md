@@ -92,7 +92,7 @@ Restaurant Distribution Across Cities
 Business Question
 
 Which cities have the largest restaurant presence on Swiggy?
-/<img width="252" height="217" alt="Screenshot 2026-08-06 003405" src="https://github.com/user-attachments/assets/61ac36a5-8102-4fad-9414-ebf791e2b342" />
+![Restaurant Count]()
 
 
    

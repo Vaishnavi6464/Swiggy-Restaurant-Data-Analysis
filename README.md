@@ -145,6 +145,26 @@ Increase the visibility of newly onboarded or unrated restaurants through promot
 Highlight restaurants with consistently high ratings and a substantial number of reviews to build customer trust.
 Provide restaurant partners with review analytics so they can identify areas for improvement and enhance customer satisfaction.
 
+Most Expensive Restaurants
+
+Which restaurants have the highest average dish prices on Swiggy?
+
+
+
+Analysis
+
+The analysis of restaurants with the highest average dish prices shows that these restaurants are fairly evenly distributed across different cities rather than being concentrated in a single location. This suggests that premium dining options are available in multiple markets.
+
+Insight
+
+The presence of expensive restaurants across various cities indicates that demand for premium dining is not limited to metropolitan areas. Customers in different regions are willing to pay for high-quality food and unique dining experiences, creating opportunities for premium restaurants beyond a few major cities.
+
+Business Recommendation
+Continue expanding premium restaurant partnerships across different cities to meet the growing demand for high-quality dining experiences.
+Design city-specific marketing campaigns to promote premium restaurants based on local customer preferences.
+Maintain a balanced portfolio of premium and affordable restaurants in each city to cater to diverse customer segments.
+Analyze customer purchasing patterns in each city to identify where premium restaurant offerings can be further expanded.
+
  Skills Demonstrated
 
 - SQL Querying

@@ -88,20 +88,25 @@ The interactive dashboard includes:
 
  Key Business Insights
 
-- Major cities have significantly more restaurants than smaller cities.
-- Premium food categories have noticeably higher average prices.
-- Most restaurants maintain customer ratings above 4.0, indicating generally positive customer satisfaction.
-- A small group of restaurants consistently receives the highest ratings.
-- Restaurant availability varies across different states, highlighting opportunities for market expansion.
-- Pricing differs considerably across food categories, offering options for both budget-conscious and premium customers.
+Restaurant Distribution Across Cities
+Business Question
 
- Business Recommendations
+Which cities have the largest restaurant presence on Swiggy?
+/<img width="252" height="217" alt="Screenshot 2026-08-06 003405" src="https://github.com/user-attachments/assets/61ac36a5-8102-4fad-9414-ebf791e2b342" />
 
-- Expand restaurant partnerships in cities with lower restaurant availability.
-- Promote highly rated restaurants through featured listings.
-- Encourage restaurants with fewer reviews to increase customer feedback.
-- Introduce promotional campaigns for higher-priced categories.
-- Use city-level insights to support strategic market expansion.
+
+   
+Analysis
+
+The restaurant distribution shows that a few cities contribute a much larger number of restaurants than the others. Cities such as Jaipur and Bengaluru appear to have a much denser restaurant network, while several cities have comparatively fewer restaurants listed on the platform.
+
+Insight
+
+This pattern suggests that Swiggy's restaurant network is concentrated in a handful of major markets. Customers living in these cities have access to a wider variety of restaurants and cuisines, which can improve user satisfaction and order frequency. At the same time, cities with fewer restaurants may represent untapped markets where Swiggy could increase its presence by onboarding additional restaurant partners.
+
+Business Recommendation
+
+Instead of expanding uniformly across every city, Swiggy should identify cities where customer demand is increasing but restaurant availability remains limited. Expanding strategically into these markets could improve customer choice while facing less competition than already saturated cities.
 
 
  Repository Structure

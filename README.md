@@ -116,6 +116,18 @@ Higher prices do not necessarily indicate overpricing. In many cases, customers 
 Business Recommendation
 Restaurants should continue developing premium meal bundles while also maintaining affordable options for price-sensitive customers. A balanced pricing strategy allows restaurants to attract a broader customer base without relying on a single price segment.
 
+Customer Ratings
+Do customers generally rate restaurants positively?
+
+Analysis
+Most restaurants maintain ratings above four stars, with only a small number receiving significantly lower ratings. The variation between cities is relatively small, suggesting that customer satisfaction remains consistent across different locations.
+
+Insight
+A consistently high average rating indicates that restaurants on the platform are generally meeting customer expectations. Since ratings strongly influence purchasing decisions, maintaining service quality is essential for long-term customer trust.
+
+Business Recommendation
+Swiggy should continue encouraging customer feedback while providing restaurants with regular performance reports. Restaurants whose ratings begin to decline can then address issues before customer satisfaction is affected further.
+
  Skills Demonstrated
 
 - SQL Querying

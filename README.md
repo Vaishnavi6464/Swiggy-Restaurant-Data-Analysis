@@ -104,6 +104,7 @@ Swiggy should continue strengthening its presence in metropolitan cities while a
 
 Pricing Analysis
 How does the average price differ across food categories? 
+
 <img src="photo/Screenshot 2026-08-06 005919.png" width="400">
 
 Analysis

@@ -67,7 +67,7 @@ Performed SQL queries to answer business questions such as:
 
 Power BI Dashboard
 
-<img src="photo/Screenshot 2026-08-06 173615.png" width="800">
+<img src="photo/Screenshot 2026-08-06 173615.png" width="600">
 
 The interactive dashboard includes:
 

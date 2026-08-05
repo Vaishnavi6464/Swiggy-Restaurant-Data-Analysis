@@ -89,45 +89,21 @@ The interactive dashboard includes:
  Key Business Insights
 
 Restaurant Distribution Across Cities
-Business Question
-
 Which cities have the largest restaurant presence on Swiggy?
 
 <img src="photo/Screenshot 2026-08-06 003405.png" width="400">
    
 Analysis
-
-The restaurant distribution shows that a few cities contribute a much larger number of restaurants than the others. Cities such as Jaipur and Bengaluru appear to have a much denser restaurant network, while several cities have comparatively fewer restaurants listed on the platform.
+Among the top 10 cities with the highest restaurant presence, 6 are metropolitan cities, indicating that Swiggy has a stronger restaurant network in major urban areas. These cities benefit from higher population density, greater customer demand, and a larger number of restaurant partners.
 
 Insight
-
 This pattern suggests that Swiggy's restaurant network is concentrated in a handful of major markets. Customers living in these cities have access to a wider variety of restaurants and cuisines, which can improve user satisfaction and order frequency. At the same time, cities with fewer restaurants may represent untapped markets where Swiggy could increase its presence by onboarding additional restaurant partners.
 
 Business Recommendation
+Swiggy should continue strengthening its presence in metropolitan cities while also expanding its restaurant partnerships in Tier-2 and Tier-3 cities. Increasing restaurant availability in emerging markets can attract new customers and support long-term growth.
 
-Instead of expanding uniformly across every city, Swiggy should identify cities where customer demand is increasing but restaurant availability remains limited. Expanding strategically into these markets could improve customer choice while facing less competition than already saturated cities.
-
-
- Repository Structure
-
-Swiggy-Restaurant-Data-Analysis
-│
-├── Data
-│   └── swiggy_data.csv
-│
-├── SQL
-│   └── Swiggy_SQL_Analysis.sql
-│
-├── Python
-│   └── Swiggy_EDA.ipynb
-│
-├── PowerBI
-│   └── Swiggy_Dashboard.pbix
-│
-├── photo
-│   └── Dashboard.png
-│
-└── README.md
+Pricing Analysis
+How does the average price differ across food categories? 
 
 
  Skills Demonstrated

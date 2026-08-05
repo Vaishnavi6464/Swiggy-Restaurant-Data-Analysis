@@ -119,6 +119,11 @@ Restaurants should continue developing premium meal bundles while also maintaini
 Customer Ratings
 How reliable are customer ratings and review counts across restaurants?
 
+<img src="" width="400">
+
+<img src="photo/Screenshot " width="400">
+
+
 Analysis
 The analysis shows that while the average restaurant rating is above 3.5 (approximately 4.34), the average rating count is below 400. Additionally, a significant number of restaurants have zero customer ratings or reviews.
 

@@ -4,11 +4,14 @@ Project Overview
 This project is an end-to-end data analysis of the Swiggy Restaurant Dataset using SQL, Python (Pandas), and Power BI. The objective is to analyse restaurant distribution, pricing trends, customer ratings, and food categories to generate actionable business insights and present them through an interactive dashboard.
 
  Objectives
-- Analyse restaurant distribution across cities and states.
-- Identify the highest-priced food categories.
-- Evaluate restaurant ratings and customer review trends.
-- Discover top-rated restaurants.
-- Build an interactive Power BI dashboard for business decision-making.
+
+- Analyze the distribution of restaurants across cities and states.
+- Identify pricing patterns across restaurants and food categories.
+- Evaluate customer satisfaction using ratings and review counts.
+- Identify high-performing restaurants based on pricing and ratings.
+- Discover regional trends and market opportunities.
+- Develop an interactive dashboard to support data-driven business decisions.
+- Provide actionable recommendations for restaurant growth, pricing, and customer engagement.
 
  Tools & Technologies
 - SQL Server

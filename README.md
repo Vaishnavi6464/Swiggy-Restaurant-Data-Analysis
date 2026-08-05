@@ -104,7 +104,16 @@ Swiggy should continue strengthening its presence in metropolitan cities while a
 
 Pricing Analysis
 How does the average price differ across food categories? 
-<img src="" width="400">
+<img src="photo/Screenshot 2026-08-06 005919.png" width="400">
+
+Analysis
+The pricing analysis reveals noticeable differences between food categories. Premium meal combinations and party packs are priced much higher than snacks and individual dishes. This indicates that customers are willing to spend more on products designed for families or group dining.
+
+Insight
+Higher prices do not necessarily indicate overpricing. In many cases, customers perceive greater value in bundled meals because they offer convenience and larger portions. These premium categories therefore contribute more revenue per order, even if they account for fewer total orders.
+
+Business Recommendation
+Restaurants should continue developing premium meal bundles while also maintaining affordable options for price-sensitive customers. A balanced pricing strategy allows restaurants to attract a broader customer base without relying on a single price segment.
 
  Skills Demonstrated
 

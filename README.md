@@ -119,9 +119,9 @@ Restaurants should continue developing premium meal bundles while also maintaini
 Customer Ratings
 How reliable are customer ratings and review counts across restaurants?
 
-<img src="" width="400">
+<img src="photo/Screenshot 2026-08-06 011816.png" width="400">
 
-<img src="photo/Screenshot " width="400">
+<img src="photo/Screenshot 2026-08-06 011328.png" width="400">
 
 
 Analysis
